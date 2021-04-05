@@ -1,0 +1,2 @@
+symbol = s, appearence_times = 1, code = 
+symbol = u, appearence_times = 1, code = 

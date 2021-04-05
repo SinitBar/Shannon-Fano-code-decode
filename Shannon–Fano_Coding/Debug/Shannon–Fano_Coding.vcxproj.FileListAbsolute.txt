@@ -1,0 +1,4 @@
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\Shannon–Fano_Coding\Debug\Shannon–Fano_Coding.lib
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\Shannon–Fano_Coding\Debug\Shannon–Fano_Coding.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\2лаба\Shannon–Fano_Coding\Debug\Shannon–Fano_Coding.lib
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\2лаба\Shannon–Fano_Coding\Debug\Shannon–Fano_Coding.pdb
